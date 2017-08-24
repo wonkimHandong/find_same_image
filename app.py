@@ -7,7 +7,8 @@ from tkinter import messagebox
 import sys
 import os
 
-class App(Frame):    
+
+class App(Frame):
     picture_image = [] # 메인 테이블용 도형 이미지
     alphabet_image = [] # 메인 테이블용 알파벳 이미지
     resized_picture = [] # 컨베이어용 도형 이미지

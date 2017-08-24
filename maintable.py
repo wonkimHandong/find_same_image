@@ -5,6 +5,7 @@ from tkinter import *
 from random import *
 import time
 
+
 class Maintable(Frame):
     n=0
     selected_image=0

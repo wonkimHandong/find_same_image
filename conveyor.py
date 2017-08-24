@@ -4,6 +4,7 @@ from tkinter import *
 from random import *
 from time import *
 
+
 class Conveyor(Frame):
     def __init__(self, master, picture, width):
         super(Conveyor, self).__init__()

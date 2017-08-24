@@ -2,6 +2,7 @@
 
 from app import *
 
+
 def on_closing():
     global interrupt
     if messagebox.askokcancel("Quit", "Quit?"):
