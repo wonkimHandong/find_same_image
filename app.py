@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from maintable import *
 from conveyor import *
 from PIL import Image, ImageTk
